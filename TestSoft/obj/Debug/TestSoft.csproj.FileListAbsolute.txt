@@ -1,0 +1,154 @@
+C:\newproject\TestSoft\TestSoft\bin\Debug\TestSoft.exe.config
+C:\newproject\TestSoft\TestSoft\bin\Debug\TestSoft.exe
+C:\newproject\TestSoft\TestSoft\bin\Debug\TestSoft.pdb
+C:\newproject\TestSoft\TestSoft\bin\Debug\EntityFramework.dll
+C:\newproject\TestSoft\TestSoft\bin\Debug\EntityFramework.SqlServer.dll
+C:\newproject\TestSoft\TestSoft\bin\Debug\FirstFloor.ModernUI.dll
+C:\newproject\TestSoft\TestSoft\bin\Debug\MySql.Data.dll
+C:\newproject\TestSoft\TestSoft\bin\Debug\mysql.data.entity.EF6.dll
+C:\newproject\TestSoft\TestSoft\bin\Debug\EntityFramework.xml
+C:\newproject\TestSoft\TestSoft\bin\Debug\EntityFramework.SqlServer.xml
+C:\newproject\TestSoft\TestSoft\bin\Debug\FirstFloor.ModernUI.xml
+C:\newproject\TestSoft\TestSoft\obj\Debug\TestSoft.csprojResolveAssemblyReference.cache
+C:\newproject\TestSoft\TestSoft\obj\Debug\MainWindow.baml
+C:\newproject\TestSoft\TestSoft\obj\Debug\App.baml
+C:\newproject\TestSoft\TestSoft\obj\Debug\MainWindow.g.cs
+C:\newproject\TestSoft\TestSoft\obj\Debug\App.g.cs
+C:\newproject\TestSoft\TestSoft\obj\Debug\TestSoft_MarkupCompile.cache
+C:\newproject\TestSoft\TestSoft\obj\Debug\TestSoft.g.resources
+C:\newproject\TestSoft\TestSoft\obj\Debug\TestSoft.exe
+C:\newproject\TestSoft\TestSoft\obj\Debug\TestSoft.pdb
+C:\newproject\TestSoft\TestSoft\bin\Debug\ExcelApi.dll
+C:\newproject\TestSoft\TestSoft\bin\Debug\NetOffice.dll
+C:\newproject\TestSoft\TestSoft\bin\Debug\OfficeApi.dll
+C:\newproject\TestSoft\TestSoft\bin\Debug\VBIDEApi.dll
+C:\newproject\TestSoft\TestSoft\bin\Debug\stdole.dll
+C:\newproject\TestSoft\TestSoft\bin\Debug\ExcelApi.xml
+C:\newproject\TestSoft\TestSoft\bin\Debug\NetOffice.xml
+C:\newproject\TestSoft\TestSoft\bin\Debug\OfficeApi.xml
+C:\newproject\TestSoft\TestSoft\bin\Debug\VBIDEApi.xml
+C:\newproject\TestSoft\TestSoft\obj\Debug\View\Output.baml
+C:\newproject\TestSoft\TestSoft\obj\Debug\View\Output.g.cs
+D:\newproject\TestSoft\TestSoft\bin\Debug\TestSoft.exe.config
+D:\newproject\TestSoft\TestSoft\obj\Debug\TestSoft.exe
+D:\newproject\TestSoft\TestSoft\obj\Debug\TestSoft.pdb
+C:\GIT - Extensions\TestSoft\TestSoft\bin\Debug\TestSoft.exe.config
+C:\GIT - Extensions\TestSoft\TestSoft\obj\Debug\TestSoft.exe
+C:\GIT - Extensions\TestSoft\TestSoft\obj\Debug\TestSoft.pdb
+C:\GIT - Extensions\TestSoft\TestSoft\obj\Debug\TestSoft.csprojResolveAssemblyReference.cache
+C:\GIT - Extensions\TestSoft\TestSoft\obj\Debug\MainWindow.baml
+C:\GIT - Extensions\TestSoft\TestSoft\obj\Debug\App.baml
+C:\GIT - Extensions\TestSoft\TestSoft\obj\Debug\MainWindow.g.cs
+C:\GIT - Extensions\TestSoft\TestSoft\obj\Debug\App.g.cs
+C:\GIT - Extensions\TestSoft\TestSoft\obj\Debug\TestSoft_MarkupCompile.cache
+C:\GIT - Extensions\TestSoft\TestSoft\bin\Debug\TestSoft.exe
+C:\GIT - Extensions\TestSoft\TestSoft\bin\Debug\TestSoft.pdb
+C:\GIT - Extensions\TestSoft\TestSoft\bin\Debug\EntityFramework.dll
+C:\GIT - Extensions\TestSoft\TestSoft\bin\Debug\EntityFramework.SqlServer.dll
+C:\GIT - Extensions\TestSoft\TestSoft\bin\Debug\ExcelApi.dll
+C:\GIT - Extensions\TestSoft\TestSoft\bin\Debug\MySql.Data.dll
+C:\GIT - Extensions\TestSoft\TestSoft\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\GIT - Extensions\TestSoft\TestSoft\bin\Debug\NetOffice.dll
+C:\GIT - Extensions\TestSoft\TestSoft\bin\Debug\OfficeApi.dll
+C:\GIT - Extensions\TestSoft\TestSoft\bin\Debug\VBIDEApi.dll
+C:\GIT - Extensions\TestSoft\TestSoft\bin\Debug\stdole.dll
+C:\GIT - Extensions\TestSoft\TestSoft\bin\Debug\EntityFramework.xml
+C:\GIT - Extensions\TestSoft\TestSoft\bin\Debug\EntityFramework.SqlServer.xml
+C:\GIT - Extensions\TestSoft\TestSoft\bin\Debug\ExcelApi.xml
+C:\GIT - Extensions\TestSoft\TestSoft\bin\Debug\NetOffice.xml
+C:\GIT - Extensions\TestSoft\TestSoft\bin\Debug\OfficeApi.xml
+C:\GIT - Extensions\TestSoft\TestSoft\bin\Debug\VBIDEApi.xml
+C:\GIT - Extensions\TestSoft\TestSoft\obj\Debug\View\Output.baml
+C:\GIT - Extensions\TestSoft\TestSoft\obj\Debug\View\Output.g.cs
+C:\GIT - Extensions\TestSoft\TestSoft\obj\Debug\TestSoft.g.resources
+D:\Dev\TestSoft\TestSoft\TestSoft\bin\Debug\TestSoft.exe.config
+D:\Dev\TestSoft\TestSoft\TestSoft\bin\Debug\TestSoft.exe
+D:\Dev\TestSoft\TestSoft\TestSoft\bin\Debug\TestSoft.pdb
+D:\Dev\TestSoft\TestSoft\TestSoft\bin\Debug\EntityFramework.dll
+D:\Dev\TestSoft\TestSoft\TestSoft\bin\Debug\EntityFramework.SqlServer.dll
+D:\Dev\TestSoft\TestSoft\TestSoft\bin\Debug\ExcelApi.dll
+D:\Dev\TestSoft\TestSoft\TestSoft\bin\Debug\MahApps.Metro.dll
+D:\Dev\TestSoft\TestSoft\TestSoft\bin\Debug\MahApps.Metro.SimpleChildWindow.dll
+D:\Dev\TestSoft\TestSoft\TestSoft\bin\Debug\MySql.Data.dll
+D:\Dev\TestSoft\TestSoft\TestSoft\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\Dev\TestSoft\TestSoft\TestSoft\bin\Debug\NetOffice.dll
+D:\Dev\TestSoft\TestSoft\TestSoft\bin\Debug\OfficeApi.dll
+D:\Dev\TestSoft\TestSoft\TestSoft\bin\Debug\System.Windows.Interactivity.dll
+D:\Dev\TestSoft\TestSoft\TestSoft\bin\Debug\VBIDEApi.dll
+D:\Dev\TestSoft\TestSoft\TestSoft\bin\Debug\stdole.dll
+D:\Dev\TestSoft\TestSoft\TestSoft\bin\Debug\EntityFramework.xml
+D:\Dev\TestSoft\TestSoft\TestSoft\bin\Debug\EntityFramework.SqlServer.xml
+D:\Dev\TestSoft\TestSoft\TestSoft\bin\Debug\ExcelApi.xml
+D:\Dev\TestSoft\TestSoft\TestSoft\bin\Debug\MahApps.Metro.pdb
+D:\Dev\TestSoft\TestSoft\TestSoft\bin\Debug\MahApps.Metro.xml
+D:\Dev\TestSoft\TestSoft\TestSoft\bin\Debug\MahApps.Metro.SimpleChildWindow.pdb
+D:\Dev\TestSoft\TestSoft\TestSoft\bin\Debug\MahApps.Metro.SimpleChildWindow.xml
+D:\Dev\TestSoft\TestSoft\TestSoft\bin\Debug\NetOffice.xml
+D:\Dev\TestSoft\TestSoft\TestSoft\bin\Debug\OfficeApi.xml
+D:\Dev\TestSoft\TestSoft\TestSoft\bin\Debug\VBIDEApi.xml
+D:\Dev\TestSoft\TestSoft\TestSoft\obj\Debug\View\Output.baml
+D:\Dev\TestSoft\TestSoft\TestSoft\obj\Debug\App.baml
+D:\Dev\TestSoft\TestSoft\TestSoft\obj\Debug\MainWindow.g.cs
+D:\Dev\TestSoft\TestSoft\TestSoft\obj\Debug\View\Output.g.cs
+D:\Dev\TestSoft\TestSoft\TestSoft\obj\Debug\App.g.cs
+D:\Dev\TestSoft\TestSoft\TestSoft\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Dev\TestSoft\TestSoft\TestSoft\obj\Debug\TestSoft_MarkupCompile.cache
+D:\Dev\TestSoft\TestSoft\TestSoft\obj\Debug\TestSoft_MarkupCompile.lref
+D:\Dev\TestSoft\TestSoft\TestSoft\obj\Debug\MainWindow.baml
+D:\Dev\TestSoft\TestSoft\TestSoft\obj\Debug\TestSoft.g.resources
+D:\Dev\TestSoft\TestSoft\TestSoft\obj\Debug\TestSoft.exe
+D:\Dev\TestSoft\TestSoft\TestSoft\obj\Debug\TestSoft.pdb
+D:\Dev\TestSoft\TestSoft\TestSoft\obj\Debug\TestSoft.csprojResolveAssemblyReference.cache
+C:\GIT - Extensions\AbraTestSoft\TestSoft\TestSoft\bin\Debug\TestSoft.exe.config
+C:\GIT - Extensions\AbraTestSoft\TestSoft\TestSoft\obj\Debug\TestSoft.exe
+C:\GIT - Extensions\AbraTestSoft\TestSoft\TestSoft\obj\Debug\TestSoft.pdb
+C:\GIT - Extensions\AbraTestSoft\TestSoft\TestSoft\bin\Debug\TestSoft.exe
+C:\GIT - Extensions\AbraTestSoft\TestSoft\TestSoft\bin\Debug\TestSoft.pdb
+C:\GIT - Extensions\AbraTestSoft\TestSoft\TestSoft\bin\Debug\EntityFramework.dll
+C:\GIT - Extensions\AbraTestSoft\TestSoft\TestSoft\bin\Debug\EntityFramework.SqlServer.dll
+C:\GIT - Extensions\AbraTestSoft\TestSoft\TestSoft\bin\Debug\ExcelApi.dll
+C:\GIT - Extensions\AbraTestSoft\TestSoft\TestSoft\bin\Debug\MahApps.Metro.dll
+C:\GIT - Extensions\AbraTestSoft\TestSoft\TestSoft\bin\Debug\MahApps.Metro.SimpleChildWindow.dll
+C:\GIT - Extensions\AbraTestSoft\TestSoft\TestSoft\bin\Debug\MySql.Data.dll
+C:\GIT - Extensions\AbraTestSoft\TestSoft\TestSoft\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\GIT - Extensions\AbraTestSoft\TestSoft\TestSoft\bin\Debug\NetOffice.dll
+C:\GIT - Extensions\AbraTestSoft\TestSoft\TestSoft\bin\Debug\OfficeApi.dll
+C:\GIT - Extensions\AbraTestSoft\TestSoft\TestSoft\bin\Debug\System.Windows.Interactivity.dll
+C:\GIT - Extensions\AbraTestSoft\TestSoft\TestSoft\bin\Debug\VBIDEApi.dll
+C:\GIT - Extensions\AbraTestSoft\TestSoft\TestSoft\bin\Debug\stdole.dll
+C:\GIT - Extensions\AbraTestSoft\TestSoft\TestSoft\bin\Debug\EntityFramework.xml
+C:\GIT - Extensions\AbraTestSoft\TestSoft\TestSoft\bin\Debug\EntityFramework.SqlServer.xml
+C:\GIT - Extensions\AbraTestSoft\TestSoft\TestSoft\bin\Debug\ExcelApi.xml
+C:\GIT - Extensions\AbraTestSoft\TestSoft\TestSoft\bin\Debug\MahApps.Metro.pdb
+C:\GIT - Extensions\AbraTestSoft\TestSoft\TestSoft\bin\Debug\MahApps.Metro.xml
+C:\GIT - Extensions\AbraTestSoft\TestSoft\TestSoft\bin\Debug\MahApps.Metro.SimpleChildWindow.pdb
+C:\GIT - Extensions\AbraTestSoft\TestSoft\TestSoft\bin\Debug\MahApps.Metro.SimpleChildWindow.xml
+C:\GIT - Extensions\AbraTestSoft\TestSoft\TestSoft\bin\Debug\NetOffice.xml
+C:\GIT - Extensions\AbraTestSoft\TestSoft\TestSoft\bin\Debug\OfficeApi.xml
+C:\GIT - Extensions\AbraTestSoft\TestSoft\TestSoft\bin\Debug\VBIDEApi.xml
+C:\GIT - Extensions\AbraTestSoft\TestSoft\TestSoft\obj\Debug\TestSoft.csprojResolveAssemblyReference.cache
+C:\GIT - Extensions\AbraTestSoft\TestSoft\TestSoft\obj\Debug\View\Output.baml
+C:\GIT - Extensions\AbraTestSoft\TestSoft\TestSoft\obj\Debug\App.baml
+C:\GIT - Extensions\AbraTestSoft\TestSoft\TestSoft\obj\Debug\MainWindow.g.cs
+C:\GIT - Extensions\AbraTestSoft\TestSoft\TestSoft\obj\Debug\View\Output.g.cs
+C:\GIT - Extensions\AbraTestSoft\TestSoft\TestSoft\obj\Debug\App.g.cs
+C:\GIT - Extensions\AbraTestSoft\TestSoft\TestSoft\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\GIT - Extensions\AbraTestSoft\TestSoft\TestSoft\obj\Debug\TestSoft_MarkupCompile.cache
+C:\GIT - Extensions\AbraTestSoft\TestSoft\TestSoft\obj\Debug\TestSoft_MarkupCompile.lref
+C:\GIT - Extensions\AbraTestSoft\TestSoft\TestSoft\obj\Debug\MainWindow.baml
+C:\GIT - Extensions\AbraTestSoft\TestSoft\TestSoft\obj\Debug\TestSoft.g.resources
+C:\GIT - Extensions\AbraTestSoft\TestSoft\TestSoft\bin\Debug\Resources\logo.ico
+C:\GIT - Extensions\AbraTestSoft\TestSoft\TestSoft\obj\Debug\TestSoft_Content.g.cs
+C:\GIT - Extensions\AbraTestSoft\TestSoft\TestSoft\bin\Debug\Resources\logo.png
+C:\GIT - Extensions\TestSoft\TestSoft\bin\Debug\Resources\logo.ico
+C:\GIT - Extensions\TestSoft\TestSoft\bin\Debug\Resources\logo.png
+C:\GIT - Extensions\TestSoft\TestSoft\bin\Debug\MahApps.Metro.dll
+C:\GIT - Extensions\TestSoft\TestSoft\bin\Debug\MahApps.Metro.SimpleChildWindow.dll
+C:\GIT - Extensions\TestSoft\TestSoft\bin\Debug\System.Windows.Interactivity.dll
+C:\GIT - Extensions\TestSoft\TestSoft\bin\Debug\MahApps.Metro.pdb
+C:\GIT - Extensions\TestSoft\TestSoft\bin\Debug\MahApps.Metro.xml
+C:\GIT - Extensions\TestSoft\TestSoft\bin\Debug\MahApps.Metro.SimpleChildWindow.pdb
+C:\GIT - Extensions\TestSoft\TestSoft\bin\Debug\MahApps.Metro.SimpleChildWindow.xml
+C:\GIT - Extensions\TestSoft\TestSoft\obj\Debug\TestSoft_Content.g.cs
+C:\GIT - Extensions\TestSoft\TestSoft\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\GIT - Extensions\TestSoft\TestSoft\obj\Debug\TestSoft_MarkupCompile.lref
