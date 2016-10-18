@@ -71,6 +71,11 @@ namespace TestSoft.Control
                 db.RemoveAt(61);
                 db.RemoveAt(61);
 
+                //CleanUp
+                application.ActiveWorkbook.Close();
+                application.Quit();
+                application.Dispose();
+
             }
 
             

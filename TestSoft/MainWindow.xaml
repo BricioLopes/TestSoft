@@ -3,7 +3,7 @@
                   xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
                   xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
                   Title="LG - Excel Output"                   
-                  ResizeMode="CanMinimize"
+                  
                   Icon="/TestSoft;component/Resources/logo.png"
                   xmlns:views="clr-namespace:TestSoft.View"
                  >
@@ -12,3 +12,4 @@
     
     
 </Controls:MetroWindow>
+<!--ResizeMode="CanMinimize"-->
